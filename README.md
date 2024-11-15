@@ -6,5 +6,3 @@ Stepper motor model 17HS4401
 
 This code allows the user to define the thickness of the material placed on the K40 bed and the type of operation to be performed (cutting or engraving).
 Then, the bed is set to a correct height so that the laser beam is focused on the surface (engraving mode) or in the middle (cutting mode)
-
-TEST
